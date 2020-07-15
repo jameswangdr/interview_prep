@@ -1,0 +1,30 @@
+.light {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: darkgrey;
+    padding: 3px;
+}
+
+.stoplight {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    height: 610px;
+    width: 210px;
+}
+
+#red {
+    background-color: red;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#green {
+    background-color: green;
+}
